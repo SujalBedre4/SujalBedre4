@@ -61,25 +61,3 @@ I'm a Cloud & DevOps enthusiast who loves building resilient infrastructure and 
 ![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujalBedre4&theme=catppuccin_latte&hide_border=true&show_icons=true" alt="Sujal's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalBedre4&theme=catppuccin_latte&hide_border=true" alt="Sujal's GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalBedre4&theme=catppuccin_latte&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=SujalBedre4&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SujalBedre4&color=blue&style=flat" alt="Profile Views" />
-</p>
