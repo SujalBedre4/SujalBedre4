@@ -1,6 +1,4 @@
-# 💫 About Me
-
-### 🛠️ Yoo, I'm Sujal!
+# 🛠️ Yoo, I'm Sujal!
 
 I'm a Cloud & DevOps enthusiast who loves building resilient infrastructure and automating everything in sight.
 
